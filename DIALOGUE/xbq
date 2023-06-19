@@ -1,0 +1,2320 @@
+  0 int size = 0
+    [73813]
+     0 TermData data
+      1 string Term = "Dialogue Text/jytzc0s4tba5x_wt"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Ким, ты видишь то же, что и я?» (Указать на автомат)."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73814]
+     0 TermData data
+      1 string Term = "Dialogue Text/ovfaq2iphjnma097"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Требуется невероятная сосредоточенность, чтобы предугадать, когда шарик с козлом появится в зоне досягаемости. Но это *возможно*. Соберись!"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73815]
+     0 TermData data
+      1 string Term = "Dialogue Text/wq_tbj62wxjpyqb8"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Мои поздравления». Лейтенант кивает. «Здесь-то игра и заканчивается. Дешевый способ вытрясти из игроков побольше монет. Глупая, нигилистическая развязка»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73816]
+     0 TermData data
+      1 string Term = "Dialogue Text/12zkog0jmdfrx75z"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Он из тех, кто постоянно использует термин „дикари“, рассказывая о своих путешествиях. Мескийский националист»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73817]
+     0 TermData data
+      1 string Term = "Dialogue Text/fvd3rpv6uld7h1y7"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Хрена мочилово», — бормочет парень, не отрывая взгляда от безжизненного устройства. Затем быстро берет себя в руки и добавляет:"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73818]
+     0 TermData data
+      1 string Term = "Dialogue Text/kwrbm_mtrd45k6ru"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Куно, ты видел? Я побил рекорд»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73819]
+     0 TermData data
+      1 string Term = "Dialogue Text/spi1fwo5t6ufj27x"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Маленький молоточек разбивает что-то внутри устройства. Что-то стеклянное."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73820]
+     0 TermData data
+      1 string Term = "Dialogue Text/z96p1yx3xnhsjsdx"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Жизнь к нему вряд ли вернется."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73821]
+     0 TermData data
+      1 string Term = "Dialogue Text/_hp8gkw99c6b0f_h"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Куно, зацени». (Указать на автомат)."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73822]
+     0 TermData data
+      1 string Term = "Dialogue Text/a_k92k8i57p77v_1"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«А я хорош». (Продолжить играть)."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73823]
+     0 TermData data
+      1 string Term = "Dialogue Text/i5qtfovfmp8fin1g"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«А еще он заядлый охотник, — добавляет лейтенант. — Он часто фотографировался у себя в обеденном зале, на стенах которого висело множество охотничьих трофеев со всех континентов»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73824]
+     0 TermData data
+      1 string Term = "Dialogue Text/nb45ga7zzw7b2kuk"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Ким, кажется, я победил»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73825]
+     0 TermData data
+      1 string Term = "Dialogue Text/rbzlykno_42c63oe"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Паренек пожимает плечами. Ему все равно."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73826]
+     0 TermData data
+      1 string Term = "Alternate1/rbzlykno_42c63oe"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Куно похуй, — повторяет он. — Абсолютно поебать»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73827]
+     0 TermData data
+      1 string Term = "Dialogue Text/rivzj8e0kgl_leie"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Тут без основательного ремонта теперь не поиграешь»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73828]
+     0 TermData data
+      1 string Term = "Dialogue Text/stku9ppxnqvicadh"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Погоди, а как же Смолка, Яндироба, Штирнеман и Шмеллинг?»"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73829]
+     0 TermData data
+      1 string Term = "Dialogue Text/zv71pwrjekkjj91_"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Разумеется». Он кивает. «Я все равно считаю, что вы заслужили право хотя бы немного гордиться собой»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73830]
+     0 TermData data
+      1 string Term = "Dialogue Text/1psn711d3tagmx4s"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Наклониться поближе и прочитать текст."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73831]
+     0 TermData data
+      1 string Term = "Dialogue Text/nv69cklpplvuqm89"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Вставить монетку. (Продолжить)."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73832]
+     0 TermData data
+      1 string Term = "Dialogue Text/nwvqd45i0a9l9trh"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Слегка напряженная поза выдает его интерес."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73833]
+     0 TermData data
+      1 string Term = "Dialogue Text/zi20rgakksdzfrnc"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Это не просто пинбольный автомат. Это вершина всего пинбола. «Корнелиус Гурди и горные козлы». Автомат подключен, и тебе не терпится до него добраться."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73834]
+     0 TermData data
+      1 string Term = "Dialogue Text/59y0tru3s3nnf405"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Альпинист-расист?»"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73835]
+     0 TermData data
+      1 string Term = "Dialogue Text/b2yd7su2ouova9vj"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Повезло козлам. Туман выглядит таким мягким и манящим."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73836]
+     0 TermData data
+      1 string Term = "Dialogue Text/bxuicz07j4s9p5mb"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Если у него отходняк от спидов, ему *ничего* не будет по душе. По крайней мере еще несколько дней."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73837]
+     0 TermData data
+      1 string Term = "Dialogue Text/ihe26okq0za5q_sz"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«РЕКОРД», — объявляют динамики, и автомат зажигает все свои лампочки. Затем флипперы складываются, открывая проход для шара с Гурди, и тот укатывается к козликам за кулисы. Корнелиус исчезает, автомат выключается."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73838]
+     0 TermData data
+      1 string Term = "Dialogue Text/1c9qwo_trknviash"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Последняя."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73839]
+     0 TermData data
+      1 string Term = "Dialogue Text/31zif24an0acxabn"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Куно похуй, — заявляет он, поглядывая на автомат. — Ваще похуй Куно»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73840]
+     0 TermData data
+      1 string Term = "Dialogue Text/4xx150y_t6skm2dy"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Это всего лишь глупая игра, лейтенант»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73841]
+     0 TermData data
+      1 string Term = "Dialogue Text/81i4ffadpmtgjm72"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Давай-ка взглянем поближе». (Потянуть автомат)."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73842]
+     0 TermData data
+      1 string Term = "Dialogue Text/ed_cprt92nhw8etk"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Вверху игрового поля открывается панель, и из нее выкатывается новый шар. Он крупнее остальных шариков с козлами и матово-черный. Его опоясывает белая надпись «КОРНЕЛИУС»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73843]
+     0 TermData data
+      1 string Term = "Dialogue Text/lj3gn_ys_zrek3_k"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Ампула?"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73844]
+     0 TermData data
+      1 string Term = "Dialogue Text/yii6p08007niyrtf"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Несмотря на яркие изображения на заставке, в этом парне определенно есть нечто зловещее."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73845]
+     0 TermData data
+      1 string Term = "Dialogue Text/ltllxiw2ddjnsqu_"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Что еще за козлы?"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73846]
+     0 TermData data
+      1 string Term = "Dialogue Text/nqx1ng0yt4e0suxm"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Тумана так много, что он даже вытекает из автомата. Разглядеть что-либо почти невозможно. Твои горные козлы срываются один за другим, растворяясь в молочном небытие."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73847]
+     0 TermData data
+      1 string Term = "Dialogue Text/snupznifnj98ga_b"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Гм, я задаюсь тем же вопросом»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73848]
+     0 TermData data
+      1 string Term = "Dialogue Text/x71wxmx9o2fu21qo"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "В мескийской культуре горные козлы занимают почетное место, в особенности те, что обитают на Корпус Мунди. Лишь столь бесстрашные и проворные существа способны взобраться на вершину. Их часто ассоциируют с Гурди."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73849]
+     0 TermData data
+      1 string Term = "Dialogue Text/0rfu_r8l3e5_fwxp"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Пыль и тьма снова обволакивают автомат."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73850]
+     0 TermData data
+      1 string Term = "Dialogue Text/8ry9k8snu3y1065a"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Да». Лейтенант бросает последний взгляд на «КОРНЕЛИУСА ГУРДИ И ГОРНЫХ КОЗЛОВ». «Старые добрые времена»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73851]
+     0 TermData data
+      1 string Term = "Dialogue Text/gy8_dg31pk6ze4n0"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Тебе не сразу удается поймать нужный ритм, но вскоре ты уже с легкостью держишь в игре три шарика с козлиными мордочкам."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73852]
+     0 TermData data
+      1 string Term = "Dialogue Text/or0phdpcm2nsiqqe"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Жаль, некому лицезреть твой триумф. Рекорд ведь как-никак."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73853]
+     0 TermData data
+      1 string Term = "Dialogue Text/uz5_wzxdkfuqjt_8"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Ты *можешь* сориентироваться. Шарики оставляют едва незаметные дорожки в тумане. Это позволит рассчитать, куда они ударят."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73854]
+     0 TermData data
+      1 string Term = "Dialogue Text/wiyejqtwgs8rjdql"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Мусор поймал момент. Быстрые мышечные волокна, запредельная скорость реакции. Животные инстинкты, типа того."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73855]
+     0 TermData data
+      1 string Term = "Dialogue Text/6vg3tfx5s_8b6bix"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Но вам, похоже, нравится». Он кивает в сторону устройства."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73856]
+     0 TermData data
+      1 string Term = "Dialogue Text/7d464gjitbmw5cic"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Также он бил жену. И детей. Не только своих. Иногда — животных. Паршивый человечишка»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73857]
+     0 TermData data
+      1 string Term = "Dialogue Text/azx8z2pvf3r9htx4"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Зажигать» — слово, отражающее саму суть островалийской пинбольной тусовки. Вернее, *любой* пинбольной тусовки."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73858]
+     0 TermData data
+      1 string Term = "Dialogue Text/np44jejze13iuy0e"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Автомат погас и затих. Понадобится основательный ремонт, чтобы кто-то снова мог поиграть."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73859]
+     0 TermData data
+      1 string Term = "Dialogue Text/toodo01ypqwivk55"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Он так жестко обрушивается, что тут же сбивает последнего козла в бездну, а затем по инерции прыгает по всему полю, словно в нем пробудилась какая-то демоническая сущность."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73860]
+     0 TermData data
+      1 string Term = "Dialogue Text/uk8mozo087pxw018"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Вдруг вверху открывается специальный проход, ведущий прямо на вершину горы. Шарикам туда."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73861]
+     0 TermData data
+      1 string Term = "Dialogue Text/_2rkfiokd4ec50r7"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Мужчина в очках и оранжевой летной куртке притопывает ногой. Кажется, он кого-то ждет. Тебя."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73862]
+     0 TermData data
+      1 string Term = "Alternate1/_2rkfiokd4ec50r7"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Мужчина в очках и черной летной куртке притопывает ногой. Кажется, он кого-то ждет. Тебя."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73863]
+     0 TermData data
+      1 string Term = "Dialogue Text/trv7zkc8dtzynjku"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Мужчина в очках и оранжевой летной куртке свернул газету и притопывает ногой. Кажется, он уже долго тут ждет."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73864]
+     0 TermData data
+      1 string Term = "Alternate1/trv7zkc8dtzynjku"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Мужчина в очках и черной летной куртке свернул газету и притопывает ногой. Кажется, он уже долго тут ждет."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73865]
+     0 TermData data
+      1 string Term = "Dialogue Text/0t2q512k3d23ciua"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Тоже мне секрет. Все курили травку."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73866]
+     0 TermData data
+      1 string Term = "Dialogue Text/2k3qt6l4djhyjccu"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Медленно повернуть голову и вскинуть брови до небес."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73867]
+     0 TermData data
+      1 string Term = "Dialogue Text/acvqyn2k_f01qwy_"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Это считается секретом?»"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73868]
+     0 TermData data
+      1 string Term = "Dialogue Text/e53h6oqpbqc612yw"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«...»"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73869]
+     0 TermData data
+      1 string Term = "Dialogue Text/hheyrjnv3245fnx7"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Десятки лет никто не бросал ему вызов, и твоя наглая провокация застает упрямого лейтенанта врасплох, но ответный удар прилетает быстро и жестко. Это может плохо кончиться..."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73870]
+     0 TermData data
+      1 string Term = "Dialogue Text/uoczy2qio2cvw8fo"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Ким, ну сученыш...»"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73871]
+     0 TermData data
+      1 string Term = "Dialogue Text/05ncnhw6o1cdlpkq"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Неправда. Есть те, кто никогда не курил каннабис, в этом я уверен»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73872]
+     0 TermData data
+      1 string Term = "Dialogue Text/6jfxuofzs_ujs314"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Оранжевая фуражка. Больше ничего не идет на ум»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73873]
+     0 TermData data
+      1 string Term = "Alternate1/6jfxuofzs_ujs314"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Черная фуражка. Больше ничего не идет на ум»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73874]
+     0 TermData data
+      1 string Term = "Dialogue Text/i4jh0ms81b7_y8bv"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Он ожидает какой-нибудь реакции."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73875]
+     0 TermData data
+      1 string Term = "Dialogue Text/vb47gvqcg91jg0rg"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Комната заполняется почти что невыносимым напряжением. Волоски на твоей спине встают дыбом."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73876]
+     0 TermData data
+      1 string Term = "Dialogue Text/y12lfcpuw4ckesqx"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Ладно, может, тебе и правда не нужна оранжевая фуражка. Дай еще подумать»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73877]
+     0 TermData data
+      1 string Term = "Alternate1/y12lfcpuw4ckesqx"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Ладно, может, тебе и правда не нужна черная фуражка. Дай еще подумать»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73878]
+     0 TermData data
+      1 string Term = "Dialogue Text/62tizxw5q07pmoqz"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Ты имеешь в виду каннабис?»"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73879]
+     0 TermData data
+      1 string Term = "Dialogue Text/j4t1hhu2ci46q08n"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Очень смешно, лейтенант»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73880]
+     0 TermData data
+      1 string Term = "Dialogue Text/m_b7o4ff12lgzar1"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Когда я был молод и глуп, я несколько раз... курил травку»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73881]
+     0 TermData data
+      1 string Term = "Dialogue Text/r6vscu_2uos166zr"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«...»"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73882]
+     0 TermData data
+      1 string Term = "Dialogue Text/4xd9a2culh1pwgeb"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Расслабься, Ким. Я завязал с травой»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73883]
+     0 TermData data
+      1 string Term = "Dialogue Text/6kg6kmbnycdqr_ah"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Его слова честны, мессир. Нет тяги в нем к пьянящим травам»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73884]
+     0 TermData data
+      1 string Term = "Dialogue Text/zcbp1oaaa0f3yj8f"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«В этом нет ничего такого. К тому же, это в прошлом». Он едва заметно вздыхает. «Но пару раз бывало. Лет в двадцать с небольшим»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73885]
+     0 TermData data
+      1 string Term = "Dialogue Text/lqhnkee38sh6573n"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Лейтенант тут же соображает, что на кону. Шестеренки в его голове крутятся, он готовится к сокрушительной контратаке. Это может плохо кончиться..."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73886]
+     0 TermData data
+      1 string Term = "Dialogue Text/rpslwkv4z6d8sc9d"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Ты сам напросился»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73887]
+     0 TermData data
+      1 string Term = "Alternate1/rpslwkv4z6d8sc9d"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Закон есть закон»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73888]
+     0 TermData data
+      1 string Term = "Dialogue Text/t7djjytxeq7wdran"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Ты обводишь контур воображаемой кобуры на бедре. Указательный палец непроизвольно подергивается."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73889]
+     0 TermData data
+      1 string Term = "Dialogue Text/926f12ux3n3h_rce"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Не повести бровью, лишь степенно кивнуть."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73890]
+     0 TermData data
+      1 string Term = "Alternate2/bh1s1rv7asatclbk"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Надо нам как-нибудь затянуться по одной»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73891]
+     0 TermData data
+      1 string Term = "Alternate1/bh1s1rv7asatclbk"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Надо нам как-нибудь затянуться травкой»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73892]
+     0 TermData data
+      1 string Term = "Dialogue Text/bh1s1rv7asatclbk"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Надо нам как-нибудь затянуться косячком»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73893]
+     0 TermData data
+      1 string Term = "Dialogue Text/kqa9jnrtuu9pa3yz"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Что-то неслышно щелкает внутри лейтенанта. Плечи расслабляются, брови спокойно опускаются. Он изо всех сил старается выглядеть расслабленным, даже равнодушным."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73894]
+     0 TermData data
+      1 string Term = "Dialogue Text/t9rneu3vz2buf03h"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "*Chaise electrique*?"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73895]
+     0 TermData data
+      1 string Term = "Dialogue Text/z_v9e1ayp795_rac"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Еще бы что-то не так! Лейтенант Бровь думает, что может заткнуть тебя, словно ты какой-нибудь безбровый уродец. Думает, ты тут ляжешь и стерпишь все удары!"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73896]
+     0 TermData data
+      1 string Term = "Dialogue Text/a633hfmdfjrv06p6"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Тяжелые капли дождя падают на столкнувшиеся в противостоянии брови и стекают по измученным лицам. Мир вне этой битвы практически перестает существовать."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73897]
+     0 TermData data
+      1 string Term = "Dialogue Text/w1zwktcsbg6usigw"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "(Осторожно поднять бровь.) «Уверен, что хочешь этого, Ким?»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73898]
+     0 TermData data
+      1 string Term = "Dialogue Text/19vu0mulqakr5z6h"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Да, каннабис. Травка. Я скрутил ее в бумажную трубочку и поджег. А потом *вдыхал* дым. Я был молод»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73899]
+     0 TermData data
+      1 string Term = "Dialogue Text/5tyqrpo_een2bf5b"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "В его голосе слышится попытка оправдаться. Даже такое мелкое бунтарство является для лейтенанта важной составляющей личности."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73900]
+     0 TermData data
+      1 string Term = "Dialogue Text/myn_6jwzvpo2qjx5"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Лейтенант явно ожидал такого хода, но ни уклониться, ни отразить твою контр-контратаку ему не удается. Одинокая капелька пота стекает по его щеке..."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73901]
+     0 TermData data
+      1 string Term = "Dialogue Text/zq5rucuiobtn4mfa"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "(Самодовольно выгнуть бровь.) «Не знаю, *ты* мне скажи»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73902]
+     0 TermData data
+      1 string Term = "Dialogue Text/myyina20krx0u0i4"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Снежинки падают на лицо и тут же тают от горячего противостояния бровей. Мира вне этого момента просто не существует."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73903]
+     0 TermData data
+      1 string Term = "Dialogue Text/u_6y8mi5ita7kz3p"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«К тому же, для меня это давно в прошлом»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73904]
+     0 TermData data
+      1 string Term = "Dialogue Text/z5ipbvcjm7m7zw_g"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Да». Он кивает. «А теперь давайте поторопимся, потому что времени у меня в обрез»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73905]
+     0 TermData data
+      1 string Term = "Dialogue Text/2bhi6s7ym4_0qy0e"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Выглядит крайне опасно. А если кто-нибудь пострадает?"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73906]
+     0 TermData data
+      1 string Term = "Dialogue Text/s991uqdqo7bbn57q"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Десятки лет никто не бросал ему вызов, поэтому скорость реакции лейтенанта немного замедлена, но поблажек от него все равно не жди. Ни единой. Это может плохо кончиться..."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73907]
+     0 TermData data
+      1 string Term = "Dialogue Text/7pdww9ca9x_nuzsn"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Тетрагидроканнабинол — это психоактивное вещество добываемое из растение каннабис, также известного как «конопля» или «травка». Один из самых распространенных рекреационных наркотиков."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73908]
+     0 TermData data
+      1 string Term = "Dialogue Text/vrupyuj6cxert3ly"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Все, чего я хочу, это закрыть последнее дело и c чистой совестью отправиться на *сhaise*». В его голосе слышится издевка. «Давайте поторопимся, времени у меня в обрез»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73909]
+     0 TermData data
+      1 string Term = "Dialogue Text/6izd1lpb86v99bwu"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Курил... что?»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73910]
+     0 TermData data
+      1 string Term = "Dialogue Text/ahbrajleawpw0gr5"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Конечно. Вот мой пистолет и удостоверение». Он протягивает пустые ладони. «Меня за такое отправят на *chaise*, но я рад наконец снять этот камень с души»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73911]
+     0 TermData data
+      1 string Term = "Dialogue Text/m1htz74xsef5v1bo"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Согласен». Подрагивающие уголки рта выдают, что его это забавляет. «Еще что-нибудь?»"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73912]
+     0 TermData data
+      1 string Term = "Dialogue Text/zb5yr0pdp6jut7jw"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«...»"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73913]
+     0 TermData data
+      1 string Term = "Dialogue Text/1c5ei8ki9x8h8rzr"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Весь мир благоговейно замер пред великим столкновением бровей. Вне этого момента не существует ничего."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73914]
+     0 TermData data
+      1 string Term = "Dialogue Text/7flptbtdho9xsu0j"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "(Резко вздернуть бровь подобно тому, как качки жмут штангу). «Выкладывай секреты, лейтенант. Живо!»"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73915]
+     0 TermData data
+      1 string Term = "Dialogue Text/5nnc3zd3a2zkf91j"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Ладно». Подрагивающие уголки рта выдают, что его это забавляет. «Но, пожалуй, хватит. Еще что-нибудь?»"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73916]
+     0 TermData data
+      1 string Term = "Dialogue Text/7szlj_eh0cshweza"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Мессир, самодовольно выгнуть бровь вам надлежит."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73917]
+     0 TermData data
+      1 string Term = "Dialogue Text/_uumsykjmx766d7c"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Нужно двигаться дальше. Мы и так слишком отклонились от цели»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73918]
+     0 TermData data
+      1 string Term = "Dialogue Text/fhq74tds8ohihhwm"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Тянет на секрет?»"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73919]
+     0 TermData data
+      1 string Term = "Dialogue Text/i17zyjes_d4vg5wd"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Ты сейчас серьезно?»"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73920]
+     0 TermData data
+      1 string Term = "Dialogue Text/75b0xha16zlr4g_5"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Он ожидает какой-нибудь реакции."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73921]
+     0 TermData data
+      1 string Term = "Dialogue Text/9to88shwl6ximasl"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "А лейтенант-то наркоман!"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73922]
+     0 TermData data
+      1 string Term = "Dialogue Text/lqmzunk68u14_07g"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Рефлексы берут верх, и бровь лейтенанта встречается с твоей. Этот свирепый контрудар едва не сносит тебе пол-лица. Все может плохо кончиться..."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73923]
+     0 TermData data
+      1 string Term = "Dialogue Text/r9a7qfo97k3l59oh"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Я ценю твою честность, лейтенант»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73924]
+     0 TermData data
+      1 string Term = "Dialogue Text/vt1_n6be6bi8uq5r"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Конечно. Вообще-то, я хотел еще кое о чем спросить...»"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73925]
+     0 TermData data
+      1 string Term = "Dialogue Text/zaap3c9owodbkiph"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Ну вот, тебе удалось прорвать оборону. Его секреты в твоих руках."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73926]
+     0 TermData data
+      1 string Term = "Dialogue Text/2hcydyqcolhby69i"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Не думайте, мессир, что лейтенант всерьез. То юмор в нем своеобразный говорит."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73927]
+     0 TermData data
+      1 string Term = "Dialogue Text/6qfabob9iaqyivh9"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Давай-ка покажем ему. Задери бровь повыше, чтоб аж в зените была."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73928]
+     0 TermData data
+      1 string Term = "Dialogue Text/m24c84wdyxon1edf"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«*Оранжевая* фуражка. Она тебе нужна»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73929]
+     0 TermData data
+      1 string Term = "Alternate1/m24c84wdyxon1edf"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«*Черная* фуражка. Она тебе нужна»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73930]
+     0 TermData data
+      1 string Term = "Dialogue Text/s9xfknpm5_sylhv_"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "(Медленно приподнять бровь). «Абсолютно ничего»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73931]
+     0 TermData data
+      1 string Term = "Dialogue Text/tfsdgev221e0_i4i"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Держись..."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73932]
+     0 TermData data
+      1 string Term = "Dialogue Text/6_ppr5hcc6km6ob7"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Да?» Его брови держатся ровно."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73933]
+     0 TermData data
+      1 string Term = "Dialogue Text/h4mpg9dmql3ouiqu"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Подключи шею. Именно в ней заключается основная сила."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73934]
+     0 TermData data
+      1 string Term = "Dialogue Text/oxt1odxy1v3bwjjc"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Травку, — повторяет он. — Каннабис. Это считается секретом?»"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73935]
+     0 TermData data
+      1 string Term = "Dialogue Text/zweq9mwm84hvtdnb"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Какое изящное отступление. Будто никакой битвы и не было вовсе."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73936]
+     0 TermData data
+      1 string Term = "Dialogue Text/_2w0w7s0b1om0b51"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Лейтенант, вы ведь понимаете, что мне придется донести эту информацию в отдел внутренней безопасности?»"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73937]
+     0 TermData data
+      1 string Term = "Dialogue Text/bpua9_o7fvynugud"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Ладно, в общем... есть *кое-что*...»"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73938]
+     0 TermData data
+      1 string Term = "Dialogue Text/zq9p684xe_to8il2"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Не считается. Все курили каннабис»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73939]
+     0 TermData data
+      1 string Term = "Dialogue Text/9r0cxnaffrcn05i4"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "Жребий брошен, уже слишком поздно. Уличная драка на бровях в самом разгаре. Эти двое стоят друг друга, но выживет только один."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73940]
+     0 TermData data
+      1 string Term = "Dialogue Text/kv1hk0901_0we4pe"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "А теперь контратакуй его контратаку! Бровь в тропосферу! Полный вперед!"
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73941]
+     0 TermData data
+      1 string Term = "Dialogue Text/p4c0zh5fmt44zile"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«А я вот наоборот предлагаю не тянуть — с расследованием. И раскрыть уже дело, ради которого мы здесь»."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73942]
+     0 TermData data
+      1 string Term = "Dialogue Text/bd2k5wlrm50pcq60"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Не заставляй коллегу ждать». Она кивает на мужчину в оранжевой куртке."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73943]
+     0 TermData data
+      1 string Term = "Alternate1/bd2k5wlrm50pcq60"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Не заставляй коллегу ждать». Она кивает на мужчину в черной куртке."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73944]
+     0 TermData data
+      1 string Term = "Dialogue Text/9zl1cezdbga8cm6a"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Я тоже». Воздух пронзает резкий звук: это лейтенант расстегивает молнию на своей оранжевой куртке."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73945]
+     0 TermData data
+      1 string Term = "Alternate1/9zl1cezdbga8cm6a"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Я тоже». Воздух пронзает резкий звук: это лейтенант расстегивает молнию на своей черной куртке."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73946]
+     0 TermData data
+      1 string Term = "Dialogue Text/3wm5f6fx26c2hbtz"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Согласен». Воздух пронзает резкий звук: это лейтенант расстегивает молнию на своей оранжевой куртке."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+    [73947]
+     0 TermData data
+      1 string Term = "Alternate1/3wm5f6fx26c2hbtz"
+      0 int TermType = 0
+      0 vector Languages
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         1 string data = "«Согласен». Воздух пронзает резкий звук: это лейтенант расстегивает молнию на своей черной куртке."
+      1 vector Flags
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       1 Array Array (0 items)
+        0 int size = 0
+  1 UInt8 CaseInsensitiveTerms = 0
+  0 int OnMissingTranslation = 1
+  1 string mTerm_AppName = ""
+  0 LanguageData mLanguages
+   0 Array Array (1 items)
+    0 int size = 1
+    [0]
+     0 LanguageData data
+      1 string Name = "Russian"
+      1 string Code = "ru"
+      1 UInt8 Flags = 0
+  1 UInt8 IgnoreDeviceLanguage = 0
+  0 int _AllowUnloadingLanguages = 0
+  1 string Google_WebServiceURL = ""
+  1 string Google_SpreadsheetKey = ""
+  1 string Google_SpreadsheetName = ""
+  1 string Google_LastUpdatedVersion = ""
+  0 int GoogleUpdateFrequency = 3
+  0 int GoogleInEditorCheckFrequency = 2
+  0 int GoogleUpdateSynchronization = 1
+  0 float GoogleUpdateDelay = 0
+  0 vector Assets
+   0 Array Array (0 items)
+    0 int size = 0
