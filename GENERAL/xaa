@@ -362,7 +362,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "Настроить способности"
+         1 string data = "Налаштувати здібності"
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -379,7 +379,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "Ужасно"
+         1 string data = "Жахливо"
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -413,7 +413,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "Средне"
+         1 string data = "Посередньо"
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -430,7 +430,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "Хорошо"
+         1 string data = "Добре"
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -447,7 +447,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "Отлично"
+         1 string data = "Чудово"
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -464,7 +464,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "Гениально"
+         1 string data = "Геніально"
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -481,7 +481,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "Физиология"
+         1 string data = "Статура"
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -498,7 +498,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "Интеллект"
+         1 string data = "Інтелект"
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -532,7 +532,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "Психика"
+         1 string data = "Психіка"
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -549,7 +549,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "Физ"
+         1 string data = "Ста"
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -566,7 +566,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "Инт"
+         1 string data = "Інт"
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -617,7 +617,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "Ваша мускулатура — насколько вы сильны."
+         1 string data = "Ваша мускулатура — наскільки ви сильні."
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -634,7 +634,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "Мыслительные способности — насколько вы умны."
+         1 string data = "Розумові здатності — наскільки ви розумні."
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -651,7 +651,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "Ваше восприятие и реакция — насколько вы проворны."
+         1 string data = "Ваша реакція — наскільки ви спритні."
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -668,7 +668,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "Чувствительность — насколько вы эмоционально восприимчивы."
+         1 string data = "Ваша чутливість — наскільки ви емоційно стійкі."
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -9712,7 +9712,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "СЛУЧАЙНЫЙ ВЫБОР"
+         1 string data = "ДОВІЛЬНО"
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -9729,7 +9729,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "ВЕРНУТЬ"
+         1 string data = "ПОВЕРНУТИ"
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -9746,7 +9746,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "ПОДТВЕРДИТЬ"
+         1 string data = "ПІДТВЕРДИТИ"
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -9763,7 +9763,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "ПРОДОЛЖИТЬ"
+         1 string data = "ПРОДОВЖИТИ"
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -9797,7 +9797,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "ДАЛЕЕ"
+         1 string data = "НАСТУПНЕ"
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -9814,7 +9814,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "ПРИНЯТЬ"
+         1 string data = "ПРИЙНЯТИ"
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -9831,7 +9831,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "ПОДТВЕРДИТЬ"
+         1 string data = "ПІДТВЕРДИТИ"
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -9848,7 +9848,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "ПОВЫШЕНИЕ УРОВНЯ"
+         1 string data = "ПОКРАЩЕННЯ РІВНЯ"
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -9865,7 +9865,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "СБРОСИТЬ ВСЕ"
+         1 string data = "СКИНУТИ ВСЕ"
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
@@ -9882,7 +9882,7 @@
        1 Array Array (1 items)
         0 int size = 1
         [0]
-         1 string data = "ВЕРНУТЬ"
+         1 string data = "ПОВЕРНУТИ"
       1 vector Flags
        1 Array Array (1 items)
         0 int size = 1
