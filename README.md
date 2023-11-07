@@ -1,5 +1,7 @@
 # DiscoElysiumUA
-перекладаймо перекладаймо перекладаймо перекладаймо
+custom Ukrainian translation with decompiled data from game
+
+non-commercial freezed project
 ```
     [4]
      0 TermData data
